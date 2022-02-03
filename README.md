@@ -11,7 +11,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=annmayn&theme=tokyonight&show_icons=true)
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=annmayn&hide=c%23&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=annmayn&theme=tokyonight&show_icons=true)
 
 ### Languages and Tools:
 
