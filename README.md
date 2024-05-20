@@ -1,63 +1,103 @@
 ### Hi there 👋
 
-
 - 🌱 I’m currently learning ~~Rust~~ Kotlin + React
 - 👯 I’m looking to collaborate on any project in Python
 - 🤔 I’m looking for help with adulting
 - 💬 Ask me about anything
 - 📫 How to reach me: ntvirus333@gmail.com
-- ⚡ Fun fact: Despite what the graph says, I've used python the most for real-life projects!!!
-
+- ⚡ Fun fact: I can (almost) speak French! (Current level: B1)
 
 ![](https://github-readme-stats.vercel.app/api?username=annmayn&theme=tokyonight&show_icons=true)
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=annmayn&theme=tokyonight&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=annmayn&theme=tokyonight&show_icons=true&exclude_repo=Roster-management-using-genetic-algorithm)
 
 ### Languages and Tools:
 
 <table>
-  <tr>
-    <td align="center" width="96">
+<tr>
+    <td>
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td>
       <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
+    <td>
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>Typescript
+    </td>
+    <td>
+      <a href="#">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>Django
+    </td>
+    <td>
+      <a href="#">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="48" height="48" alt="DRF" />
+      </a>
+      <br>Django Rest
+    </td>
+    <td>
+      <a href="#">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastApi" />
+      </a>
+      <br>FastApi
+    </td>
+    <td>
+      <a href="#">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="48" height="48" alt="FastApi" />
+      </a>
+      <br>Flask
+    </td>
+    <td>
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td>
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
       </a>
       <br>Rust
     </td>
-    <td align="center" width="96">
+    <td>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="48" height="48" alt="PostgreSQL"/>
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
+    <td>
       <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
-    <td align="center" width="96">
+    <td>
       <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
-    <td align="center" width="96">
+    <td>
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
+    </td>
+    <td>
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Airflow
     </td>
   </tr>
 </table>
