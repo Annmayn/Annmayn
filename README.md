@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ~~Rust~~ Kotlin + React
+- 🌱 I’m currently learning ~~Kotlin~~ Node + React
 - 👯 I’m looking to collaborate on any project in Python
 - 🤔 I’m looking for help with adulting
 - 💬 Ask me about anything
