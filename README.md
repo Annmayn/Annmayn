@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ~~Kotlin~~ Node + React
-- 👯 I’m looking to collaborate on any project in Python
+- 🌱 I’m currently learning ~~Kotlin~~ Node + React + Astro
+- 👯 I’m looking to collaborate on any project in Python/JS/TS
 - 🤔 I’m looking for help with adulting
 - 💬 Ask me about anything
-- 📫 How to reach me: ntvirus333@gmail.com
-- ⚡ Fun fact: I can (almost) speak French! (Current level: B1)
+- 📫 How to reach me: neematsering333@gmail.com
+- ⚡ Fun fact: I can (somewhat) speak French! (Current level: B2)
 
 ![](https://github-readme-stats.vercel.app/api?username=annmayn&theme=tokyonight&show_icons=true)
 
